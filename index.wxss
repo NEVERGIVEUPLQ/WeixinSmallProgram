@@ -1,0 +1,45 @@
+/**index.wxss**/
+.view0{
+    position: absolute;
+    width:100%;
+    height:100%;
+}
+.view1{
+  position: fixed;
+  padding-left:100rpx;
+  padding-top:30rpx;
+  width: 100%;
+  height: 60rpx;
+  font-size: 35rpx;
+  color: #8CCCEE;
+  border-color: #ABABAB;
+  border-width: 1rpx;
+  border-bottom-style:solid;
+  z-index: 999;
+  background-color: white;
+}
+.label1{
+ margin-left:240rpx;
+}
+.view2{
+  width: 100%;
+  height: 100rpx;
+  font-size: 35rpx;
+  color: #808080;
+  border-color: #F0F0F0;
+  border-width: 2rpx;
+  border-bottom-style:solid;
+}
+.label2{
+  position: absolute;
+  margin-left: 80rpx;
+  margin-top: 30rpx;
+  width: 375rpx;
+}
+.label3{
+  position:absolute;
+  margin-left: 465rpx;
+  margin-top: 30rpx;
+  padding-left: 60rpx;
+  text-align:center;
+}
